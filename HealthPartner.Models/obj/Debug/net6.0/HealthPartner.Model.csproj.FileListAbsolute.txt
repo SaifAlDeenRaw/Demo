@@ -1,0 +1,12 @@
+D:\Grad Project\HealthPartner\HealthPartner.Models\bin\Debug\net6.0\HealthPartner.Model.deps.json
+D:\Grad Project\HealthPartner\HealthPartner.Models\bin\Debug\net6.0\HealthPartner.Model.dll
+D:\Grad Project\HealthPartner\HealthPartner.Models\bin\Debug\net6.0\HealthPartner.Model.pdb
+D:\Grad Project\HealthPartner\HealthPartner.Models\obj\Debug\net6.0\HealthPartner.Model.csproj.AssemblyReference.cache
+D:\Grad Project\HealthPartner\HealthPartner.Models\obj\Debug\net6.0\HealthPartner.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grad Project\HealthPartner\HealthPartner.Models\obj\Debug\net6.0\HealthPartner.Model.AssemblyInfoInputs.cache
+D:\Grad Project\HealthPartner\HealthPartner.Models\obj\Debug\net6.0\HealthPartner.Model.AssemblyInfo.cs
+D:\Grad Project\HealthPartner\HealthPartner.Models\obj\Debug\net6.0\HealthPartner.Model.csproj.CoreCompileInputs.cache
+D:\Grad Project\HealthPartner\HealthPartner.Models\obj\Debug\net6.0\HealthPartner.Model.dll
+D:\Grad Project\HealthPartner\HealthPartner.Models\obj\Debug\net6.0\refint\HealthPartner.Model.dll
+D:\Grad Project\HealthPartner\HealthPartner.Models\obj\Debug\net6.0\HealthPartner.Model.pdb
+D:\Grad Project\HealthPartner\HealthPartner.Models\obj\Debug\net6.0\ref\HealthPartner.Model.dll
