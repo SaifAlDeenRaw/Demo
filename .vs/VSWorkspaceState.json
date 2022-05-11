@@ -2,13 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\HealthPartnerWeb",
-    "\\HealthPartnerWeb\\Controllers",
-    "\\HealthPartnerWeb\\Models",
     "\\HealthPartnerWeb\\Views",
-    "\\HealthPartnerWeb\\Views\\Category",
-    "\\HealthPartnerWeb\\Views\\Home",
     "\\HealthPartnerWeb\\Views\\Shared"
   ],
-  "SelectedNode": "\\HealthPartner.sln",
   "PreviewInSolutionExplorer": false
 }

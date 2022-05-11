@@ -557,3 +557,6 @@ D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\HealthPartner.Da
 D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\HealthPartner.Model.dll
 D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\HealthPartner.Data.pdb
 D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\HealthPartner.Model.pdb
+D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\libman.json

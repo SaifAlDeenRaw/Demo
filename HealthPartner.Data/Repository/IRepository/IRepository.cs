@@ -14,7 +14,6 @@ namespace HealthPartner.Data.Repository.IRepository
         T GetFirstOrDefault(Expression<Func<T, bool>> filter);
         void Remove(T entity);
         void RemoveRange(IEnumerable<T> entity);
-
     }
 
 }
