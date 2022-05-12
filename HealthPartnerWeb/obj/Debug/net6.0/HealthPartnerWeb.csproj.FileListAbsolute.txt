@@ -560,3 +560,5 @@ D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\HealthPartner.Mo
 D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\libman.json
+D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Grad Project\HealthPartner\HealthPartnerWeb\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
