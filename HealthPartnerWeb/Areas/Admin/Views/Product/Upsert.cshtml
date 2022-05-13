@@ -1,6 +1,10 @@
 ﻿@model HealthPartner.Model.ViewModels.ProductVM
 <form method="post" asp-action="Upsert" enctype="multipart/form-data">
-    <div class="border p-3 mt-4 row">
+    <input asp-for="Product.Id" hidden />
+    <input asp-for="Product.ImageUrl" hidden />
+    <div class="row">
+        <div class="col-10">
+<div class="border p-3 mt-4 row">
         <div class="row pb-2">
             <h2 class="text-primary">@(Model.Product.Id!=0?"Update":"Create") Product</h2>
             <hr />
@@ -48,7 +52,7 @@
         </div>
         <div class="mb-3">
             <label asp-for="Product.ImageUrl"></label>
-            <input type="file" id="UploadBox" class="form-control" />
+            <input type="file" id="UploadBox" name="file" class="form-control" />
         </div>
         <div class="mb-3 col-6">
             <label asp-for="Product.CategoryId"></label>
@@ -77,12 +81,28 @@
         <a asp-controller="Product" asp-action="Index" class="btn btn-secondary" style="width:150px">Back To List</a>
         </div>
     </div>
+        </div>
+        <div class="col-2">
+            <img src="@Model.Product.ImageUrl" width="100%" style="border-radius:10px;" />
+        </div>
+    </div>
+    
 </form>
 @section scripts
 {
     @{
     <partial name="_ValidationScriptsPartial" />
     }
+    <script>
+    tinymce.init({
+      selector: 'textarea',
+      plugins: 'a11ychecker advcode casechange export formatpainter image editimage linkchecker autolink lists checklist media mediaembed pageembed permanentpen powerpaste table advtable tableofcontents tinycomments tinymcespellchecker',
+      toolbar: 'a11ycheck addcomment showcomments casechange checklist code export formatpainter image editimage pageembed permanentpen table tableofcontents',
+      toolbar_mode: 'floating',
+      tinycomments_mode: 'embedded',
+      tinycomments_author: 'Author name',
+    });
+  </script>
     <script>
         function ValidateInput()
         {if(document.getElementById("UploadBox").value=="")

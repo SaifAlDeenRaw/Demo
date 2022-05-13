@@ -44,6 +44,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.5, )"
@@ -123,8 +127,66 @@
             "Microsoft.AspNetCore.Mvc.ViewFeatures": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.5, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Grad Project\\HealthPartner\\HealthPartner.Utility\\HealthPartner.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Grad Project\\HealthPartner\\HealthPartner.Utility\\HealthPartner.Utility.csproj",
+        "projectName": "HealthPartner.Utility",
+        "projectPath": "D:\\Grad Project\\HealthPartner\\HealthPartner.Utility\\HealthPartner.Utility.csproj",
+        "packagesPath": "C:\\Users\\saifa\\.nuget\\packages\\",
+        "outputPath": "D:\\Grad Project\\HealthPartner\\HealthPartner.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\saifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -170,6 +232,9 @@
             "projectReferences": {
               "D:\\Grad Project\\HealthPartner\\HealthPartner.Data\\HealthPartner.Data.csproj": {
                 "projectPath": "D:\\Grad Project\\HealthPartner\\HealthPartner.Data\\HealthPartner.Data.csproj"
+              },
+              "D:\\Grad Project\\HealthPartner\\HealthPartner.Utility\\HealthPartner.Utility.csproj": {
+                "projectPath": "D:\\Grad Project\\HealthPartner\\HealthPartner.Utility\\HealthPartner.Utility.csproj"
               }
             }
           }
@@ -187,6 +252,14 @@
             "Google.Cloud.Firestore.V1": {
               "target": "Package",
               "version": "[2.5.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.5, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -208,7 +281,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.3.1, )"
+              "version": "[6.3.0, )"
             }
           },
           "imports": [

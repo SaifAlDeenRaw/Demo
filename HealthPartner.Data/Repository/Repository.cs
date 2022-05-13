@@ -16,6 +16,7 @@ namespace HealthPartner.Data.Repository
         public Repository(ApplicationDBContext db)
         {
             _db = db;
+            //_db.Products.Include(u => u.Category).Include(u => u.CoverType);
             this.DbSet = _db.Set<T>();
             
         }
@@ -24,17 +25,31 @@ namespace HealthPartner.Data.Repository
             DbSet.Add(entity);
         }
 
-        public IEnumerable<T> GetAll()
+        public IEnumerable<T> GetAll( string? includeProperties = null)
         {
             IQueryable<T> query = DbSet;
+            if(includeProperties != null)
+            {
+                foreach(var includeProp in includeProperties.Split(new char[] {','}, StringSplitOptions.RemoveEmptyEntries))
+                {
+                   query= query.Include(includeProp);
+                }
+            }
             return query.ToList();
         }
 
-        public T GetFirstOrDefault(Expression<Func<T, bool>> filter)
+        public T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null)
         {
             IQueryable<T> query = DbSet;
             query = query.Where(filter);
-            return query.FirstOrDefault(); 
+            if (includeProperties != null)
+            {
+                foreach (var includeProp in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    query.Include(includeProp);
+                }
+            }
+                return query.FirstOrDefault(); 
         }
 
         public void Remove(T entity)

@@ -1,0 +1,568 @@
+﻿++Solution 'HealthPartner' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:HealthPartner.sln
+++HealthPartner.Data
+i:{00000000-0000-0000-0000-000000000000}:HealthPartner.Data
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartner.data\bin\debug\net6.0\healthpartner.data.dll
+++Dependencies
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:>774
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:>775
+i:{1bf382ea-647c-4d5f-b6e1-5c351761cad9}:>868
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1381
+++Migrations
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\
+++Repository
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\
+++ApplicationDBContext.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\applicationdbcontext.cs
+++Analyzers
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:analyzers
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:analyzers
+i:{1bf382ea-647c-4d5f-b6e1-5c351761cad9}:analyzers
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:analyzers
+++Frameworks
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:frameworks
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:frameworks
+i:{1bf382ea-647c-4d5f-b6e1-5c351761cad9}:frameworks
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:frameworks
+++Packages
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:packages
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:packages
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:packages
+++Projects
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:projects
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:projects
+++20220417205502_AddCategoryToDatabase.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\20220417205502_addcategorytodatabase.cs
+++20220510203254_AddCoverTypeToDB.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\20220510203254_addcovertypetodb.cs
+++20220511172523_AddProducttoDb.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\20220511172523_addproducttodb.cs
+++20220513145357_AddIdentityToDB.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\20220513145357_addidentitytodb.cs
+++20220513155458_extendIdentity.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\20220513155458_extendidentity.cs
+++ApplicationDBContextModelSnapshot.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\applicationdbcontextmodelsnapshot.cs
+++IRepository
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\irepository\
+++CategoryRepository.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\categoryrepository.cs
+++CoverTypeRepository.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\covertyperepository.cs
+++ProductRepository.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\productrepository.cs
+++Repository.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\repository.cs
+++UnitOfWork.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\unitofwork.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1bf382ea-647c-4d5f-b6e1-5c351761cad9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1bf382ea-647c-4d5f-b6e1-5c351761cad9}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:c:\users\saifa\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\users\saifa\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:c:\users\saifa\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:c:\users\saifa\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{1bf382ea-647c-4d5f-b6e1-5c351761cad9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\microsoft.netcore.app
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:d:\grad project\healthpartner\healthpartner.models\microsoft.netcore.app
+i:{1bf382ea-647c-4d5f-b6e1-5c351761cad9}:d:\grad project\healthpartner\healthpartner.utility\microsoft.netcore.app
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.5)
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:>1470
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1488
+++Microsoft.EntityFrameworkCore (6.0.5)
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:>1419
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1405
+++Microsoft.EntityFrameworkCore.Relational (6.0.5)
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:>1422
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:>1420
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1407
+++System.Diagnostics.Tools (4.3.0)
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:>1421
+++HealthPartner.Model
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.models\bin\debug\net6.0\healthpartner.model.dll
+i:{00000000-0000-0000-0000-000000000000}:HealthPartner.Model
+++20220417205502_AddCategoryToDatabase.Designer.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\20220417205502_addcategorytodatabase.designer.cs
+++20220510203254_AddCoverTypeToDB.Designer.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\20220510203254_addcovertypetodb.designer.cs
+++20220511172523_AddProducttoDb.Designer.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\20220511172523_addproducttodb.designer.cs
+++20220513145357_AddIdentityToDB.Designer.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\20220513145357_addidentitytodb.designer.cs
+++20220513155458_extendIdentity.Designer.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\migrations\20220513155458_extendidentity.designer.cs
+++ICategoryRepository.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\irepository\icategoryrepository.cs
+++ICoverTypeRepository.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\irepository\icovertyperepository.cs
+++IProductRepository.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\irepository\iproductrepository.cs
+++IRepository.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\irepository\irepository.cs
+++IUnitOfWork.cs
+i:{52c5c0c4-b60c-45a3-9220-a0c4f679121b}:d:\grad project\healthpartner\healthpartner.data\repository\irepository\iunitofwork.cs
+++ViewModels
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:d:\grad project\healthpartner\healthpartner.models\viewmodels\
+++ProductVM.cs
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:d:\grad project\healthpartner\healthpartner.models\viewmodels\productvm.cs
+++ApplicationUser.cs
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:d:\grad project\healthpartner\healthpartner.models\applicationuser.cs
+++Category.cs
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:d:\grad project\healthpartner\healthpartner.models\category.cs
+++CoverType.cs
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:d:\grad project\healthpartner\healthpartner.models\covertype.cs
+++ErrorViewModel.cs
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:d:\grad project\healthpartner\healthpartner.models\errorviewmodel.cs
+++Product.cs
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:d:\grad project\healthpartner\healthpartner.models\product.cs
+++ShoppingCart.cs
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:d:\grad project\healthpartner\healthpartner.models\shoppingcart.cs
+++Microsoft.AspNetCore.Mvc.Core (2.2.5)
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:>1441
+++Microsoft.AspNetCore.Mvc.ViewFeatures (2.2.0)
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:>1440
+++Microsoft.Extensions.Identity.Stores (6.0.5)
+i:{7856a352-fa1b-4f58-8311-0262ff9962b3}:>1651
+++HealthPartner.Utility
+i:{00000000-0000-0000-0000-000000000000}:HealthPartner.Utility
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartner.utility\healthpartner.utility.csproj
+++SD.cs
+i:{1bf382ea-647c-4d5f-b6e1-5c351761cad9}:d:\grad project\healthpartner\healthpartner.utility\sd.cs
+++HealthPartnerWeb
+i:{00000000-0000-0000-0000-000000000000}:HealthPartnerWeb
+++Connected Services 
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1382
+++Properties
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\properties\
+++wwwroot
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\
+++css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\css\
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\
+++Images
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\images\
+++Product
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\images\product\
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\product\
+++82240d5f-fd5f-4005-8100-8cff1c0ed95b.jpg
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\images\product\82240d5f-fd5f-4005-8100-8cff1c0ed95b.jpg
+++bbc8f98b-513a-4d1a-965b-3059077c7c7b.jpg
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\images\product\bbc8f98b-513a-4d1a-965b-3059077c7c7b.jpg
+++js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\js\
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\
+++product.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\js\product.js
+++site.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\js\site.js
+++lib
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\
+++favicon.ico
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\favicon.ico
+++Areas
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\
+++Admin
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\
+++Controllers
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\controllers\
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\customer\controllers\
+++CategoryController.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\controllers\categorycontroller.cs
+++CoverTypeController.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\controllers\covertypecontroller.cs
+++ProductController.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\controllers\productcontroller.cs
+++Views
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\customer\views\
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\views\
+++Category
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\category\
+++CoverType
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\covertype\
+++Index.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\product\index.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\customer\views\home\index.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\index.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\category\index.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\covertype\index.cshtml
+++Upsert.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\product\upsert.cshtml
+++_ViewImports.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\_viewimports.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\customer\views\_viewimports.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\_viewimports.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\_viewimports.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\_viewimports.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\_viewstart.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\customer\views\_viewstart.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\_viewstart.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\views\_viewstart.cshtml
+++Customer
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\customer\
+++HomeController.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\customer\controllers\homecontroller.cs
+++Home
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\customer\views\home\
+++Details.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\customer\views\home\details.cshtml
+++Privacy.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\customer\views\home\privacy.cshtml
+++Identity
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\
+++Pages
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\
+++Account
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\
+++Manage
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\
+++_Layout.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\_layout.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\views\shared\_layout.cshtml
+++_ManageNav.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\_managenav.cshtml
+++_StatusMessage.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\_statusmessage.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\_statusmessage.cshtml
+++ChangePassword.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\changepassword.cshtml
+++DeletePersonalData.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\deletepersonaldata.cshtml
+++Disable2fa.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\disable2fa.cshtml
+++DownloadPersonalData.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\downloadpersonaldata.cshtml
+++Email.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\email.cshtml
+++EnableAuthenticator.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\enableauthenticator.cshtml
+++ExternalLogins.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\externallogins.cshtml
+++GenerateRecoveryCodes.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\generaterecoverycodes.cshtml
+++ManageNavPages.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\managenavpages.cs
+++PersonalData.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\personaldata.cshtml
+++ResetAuthenticator.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\resetauthenticator.cshtml
+++SetPassword.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\setpassword.cshtml
+++ShowRecoveryCodes.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\showrecoverycodes.cshtml
+++TwoFactorAuthentication.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\twofactorauthentication.cshtml
+++AccessDenied.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\accessdenied.cshtml
+++ConfirmEmail.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\confirmemail.cshtml
+++ConfirmEmailChange.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\confirmemailchange.cshtml
+++ExternalLogin.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\externallogin.cshtml
+++ForgotPassword.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\forgotpassword.cshtml
+++ForgotPasswordConfirmation.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\forgotpasswordconfirmation.cshtml
+++Lockout.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\lockout.cshtml
+++Login.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\login.cshtml
+++LoginWith2fa.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\loginwith2fa.cshtml
+++LoginWithRecoveryCode.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\loginwithrecoverycode.cshtml
+++Logout.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\logout.cshtml
+++Register.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\register.cshtml
+++Register.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\register.cshtml.cs
+++RegisterConfirmation.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\registerconfirmation.cshtml
+++ResendEmailConfirmation.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\resendemailconfirmation.cshtml
+++ResetPassword.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\resetpassword.cshtml
+++ResetPasswordConfirmation.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\resetpasswordconfirmation.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\_validationscriptspartial.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\error.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\views\shared\error.cshtml
+++Shared
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\views\shared\
+++_Layout.cshtml.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\views\shared\_layout.cshtml.css
+++_LoginPartial.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\views\shared\_loginpartial.cshtml
+++_Notification.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\views\shared\_notification.cshtml
+++appsettings.json
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\appsettings.json
+++appsettings.Development.json
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\appsettings.development.json
+++libman.json
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\libman.json
+++Program.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\program.cs
+++ScaffoldingReadMe.txt
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\scaffoldingreadme.txt
+++No service dependencies discovered
+++launchSettings.json
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\properties\launchsettings.json
+++BootSwatchTheme.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\css\bootswatchtheme.css
+++site.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\css\site.css
+++bootstrap
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\
+++jquery
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery\
+++jquery-validation
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery-validation-unobtrusive\
+++Create.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\category\create.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\covertype\create.cshtml
+++Delete.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\category\delete.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\covertype\delete.cshtml
+++Edit.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\category\edit.cshtml
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\admin\views\covertype\edit.cshtml
+++ChangePassword.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\changepassword.cshtml.cs
+++DeletePersonalData.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\deletepersonaldata.cshtml.cs
+++Disable2fa.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\disable2fa.cshtml.cs
+++DownloadPersonalData.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\downloadpersonaldata.cshtml.cs
+++Email.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\email.cshtml.cs
+++EnableAuthenticator.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\enableauthenticator.cshtml.cs
+++ExternalLogins.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\externallogins.cshtml.cs
+++GenerateRecoveryCodes.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\generaterecoverycodes.cshtml.cs
+++Index.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\index.cshtml.cs
+++PersonalData.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\personaldata.cshtml.cs
+++ResetAuthenticator.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\resetauthenticator.cshtml.cs
+++SetPassword.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\setpassword.cshtml.cs
+++ShowRecoveryCodes.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\showrecoverycodes.cshtml.cs
+++TwoFactorAuthentication.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\manage\twofactorauthentication.cshtml.cs
+++AccessDenied.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\accessdenied.cshtml.cs
+++ConfirmEmail.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\confirmemail.cshtml.cs
+++ConfirmEmailChange.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\confirmemailchange.cshtml.cs
+++ExternalLogin.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\externallogin.cshtml.cs
+++ForgotPassword.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\forgotpassword.cshtml.cs
+++ForgotPasswordConfirmation.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\forgotpasswordconfirmation.cshtml.cs
+++Lockout.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\lockout.cshtml.cs
+++Login.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\login.cshtml.cs
+++LoginWith2fa.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\loginwith2fa.cshtml.cs
+++LoginWithRecoveryCode.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\loginwithrecoverycode.cshtml.cs
+++Logout.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\logout.cshtml.cs
+++RegisterConfirmation.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\registerconfirmation.cshtml.cs
+++ResendEmailConfirmation.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\resendemailconfirmation.cshtml.cs
+++ResetPassword.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\resetpassword.cshtml.cs
+++ResetPasswordConfirmation.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\account\resetpasswordconfirmation.cshtml.cs
+++Error.cshtml.cs
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\areas\identity\pages\error.cshtml.cs
+++MessagePackAnalyzer
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\users\saifa\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\users\saifa\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\users\saifa\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\microsoft.aspnetcore.app
+++Google.Cloud.Firestore.V1 (2.5.0)
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1413
+++Microsoft.AspNetCore.Identity.UI (6.0.5)
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1482
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1411
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.4)
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1416
+++Swashbuckle.AspNetCore (6.3.0)
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1481
+++dist
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery\dist\
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery\license.txt
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:d:\grad project\healthpartner\healthpartnerweb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++SQL Server Database (ConnectionStrings:DefaultConnection)
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1666
+++SQL Server Database dependency with connectionId 'ConnectionStrings:DefaultConnection' is detected
+i:{845cb74d-bd10-40a2-984a-176b86f93954}:>1667
